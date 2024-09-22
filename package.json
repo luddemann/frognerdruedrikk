@@ -1,0 +1,26 @@
+{
+  "name": "frognerdruedrikk",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.37",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.11.0",
+    "eslint-plugin-tailwindcss": "^3.17.4",
+    "eslint-plugin-vue": "^9.28.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.12",
+    "vite": "^5.4.1",
+    "vue-eslint-parser": "^9.4.3"
+  }
+}
