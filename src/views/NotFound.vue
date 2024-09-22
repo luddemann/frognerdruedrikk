@@ -3,5 +3,5 @@
 </script>
 
 <template>
-<div>kan ikke finne</div>
+  <h1 class="text-8xl text-yellow-800">404</h1>
 </template>

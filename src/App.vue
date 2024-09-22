@@ -15,7 +15,7 @@ import AppFooter from './components/AppFooter.vue'
     >
       <main
         :key="route.path"
-        class="w-full grow"
+        class="max-w-screen-xl mx-auto px-4 sm:px-6 grow"
       >
         <component :is="Component" />
       </main>
