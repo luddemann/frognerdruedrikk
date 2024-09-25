@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <div class="my-20 space-y-16">
     <section class="flex items-center flex-col gap-6 text-center">
