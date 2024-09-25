@@ -14,7 +14,18 @@ onMounted(() => {
 </script>
 
 <template>
-  <AppHeader v-if="!isLoading" />
+  <transition
+    enterFromClass="opacity-0"
+    enterActiveClass="transition-all duration-500 ease-in"
+    enterToClass="opacity-100"
+    leaveFromClass="opacity-100"
+    leaveActiveClass="transition-all ease-out"
+    leaveToClass="opacity-0"
+    appear-active-class="transition-all delay-100 duration-700 ease-in"
+    appear
+  >
+    <AppHeader v-if="!isLoading" />
+  </transition>
   <router-view v-slot="{ Component, route }">
     <transition
       enterFromClass="opacity-0"
@@ -23,6 +34,7 @@ onMounted(() => {
       leaveFromClass="opacity-100"
       leaveActiveClass="transition-all ease-out"
       leaveToClass="opacity-0"
+      appear-active-class="transition-all delay-300 duration-700 ease-in"
       appear
       v-if="!isLoading"
     >
@@ -37,5 +49,16 @@ onMounted(() => {
       <LoadingAnimation />
     </main>
   </router-view>
-  <AppFooter v-if="!isLoading" />
+  <transition
+    enterFromClass="opacity-0"
+    enterActiveClass="transition-all duration-500 ease-in"
+    enterToClass="opacity-100"
+    leaveFromClass="opacity-100"
+    leaveActiveClass="transition-all ease-out"
+    leaveToClass="opacity-0"
+    appear-active-class="transition-all delay-500 duration-500 ease-in"
+    appear
+  >
+    <AppFooter v-if="!isLoading" />
+  </transition>
 </template>
