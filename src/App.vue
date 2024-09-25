@@ -21,7 +21,7 @@ onMounted(() => {
     leaveFromClass="opacity-100"
     leaveActiveClass="transition-all ease-out"
     leaveToClass="opacity-0"
-    appear-active-class="transition-all delay-100 duration-700 ease-in"
+    appear-active-class="transition-all delay-200 duration-700 ease-in"
     appear
   >
     <AppHeader v-if="!isLoading" />
@@ -29,7 +29,7 @@ onMounted(() => {
   <router-view v-slot="{ Component, route }">
     <transition
       enterFromClass="opacity-0"
-      enterActiveClass="transition-all duration-500 ease-in"
+      enterActiveClass="transition-all duration-500"
       enterToClass="opacity-100"
       leaveFromClass="opacity-100"
       leaveActiveClass="transition-all ease-out"
