@@ -29,7 +29,7 @@
           <span>Da Frogner Druedrikk Forening ble startet, trykket vi opp egne t-skjorter, og med det kom umiddelbart en sterk fellesskapsfølelse. Dette fellesskapet har vi lyst til å dele med andre. Derfor har vi laget egne t-skjorter som inviterer dere inn i vårt fellesskap der gode minner skapes, og er glemt før du står opp igjen neste dag.</span>
           <span>Samle alle dine beste venner. Ta med en flaske hver. Livet er til for å nytes, og vin er til for å deles.</span>
           <span>Det er ferie nå.</span>
-          <a href="#" class="bg-primary text-[#F9F6EA] self-baseline py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Bestill t-skjorte</a>
+          <a href="https://frognerdruedrikk.myshopify.com/products/t-skjorteslipp-1" target="_blank" class="bg-primary text-[#F9F6EA] self-baseline py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Bestill t-skjorte</a>
         </p>
       </article>
     </section>

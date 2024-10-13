@@ -3,7 +3,7 @@
     <section class="flex items-center flex-col gap-6 text-center">
       <h2 class="text-4xl md:text-7xl uppercase text-primary font-standard">T-skjorteslipp #1</h2>
       <p class="max-w-xl md:text-lg">Vår første offisielle t-skjorte er en hyllest til de sene kveldene i godt selskap, der morgendagens bekymringer ikke eksisterer. </p>
-      <a href="#" class="bg-primary text-[#F9F6EA] py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Bestill t-skjorte</a>
+      <a href="https://frognerdruedrikk.myshopify.com/products/t-skjorteslipp-1" target="_blank" class="bg-primary text-[#F9F6EA] py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Bestill t-skjorte</a>
       <img src="../assets/t-skjorte.png" alt="Bilde av t-skjorte" class="mt-6">
     </section>
     <hr class="border-primary">

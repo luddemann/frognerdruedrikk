@@ -7,7 +7,7 @@
     <nav class="max-w-screen-lg mx-auto mb-8">
       <ul class="hidden md:grid grid-cols-3 w-full justify-between items-center">
         <li class="mr-auto">
-          <a class="hover:underline" href="#">NETTBUTIKK</a>
+          <a class="hover:underline" target="_blank" href="https://frognerdruedrikk.myshopify.com">NETTBUTIKK</a>
         </li>
         <li class="mx-auto">
           <router-link to="/">

@@ -8,12 +8,11 @@
     <img src="../assets/fdflogowhite.svg" class="h-auto w-max self-center" alt="">
     <div class="flex text-white flex-row gap-12 md:gap-32 justify-center">
       <div class="flex flex-col items-center md:items-start gap-4">
-        <a class="hover:underline" href="">Nettbutikk</a>
+        <a class="hover:underline" href="https://frognerdruedrikk.myshopify.com" target="_blank">Nettbutikk</a>
         <router-link class="hover:underline" to="/om-oss">Om oss</router-link>
       </div>
       <div class="flex flex-col gap-4 items-center md:items-start">
         <a class="hover:underline" href="https://www.instagram.com/frognerdruedrikk" target="_blank">Instagram</a>
-        <a class="hover:underline">Vivino</a>
       </div>
     </div>
   </div>
