@@ -23,7 +23,7 @@
           <img src="../assets/fdflogo.svg" alt="">
         </router-link>
         <div class="flex gap-12">
-          <a class="hover:underline" href="https://frognerdruedrikk.myshopify.com">NETTBUTIKK</a>
+          <a class="hover:underline" target="_blank" href="https://frognerdruedrikk.myshopify.com">NETTBUTIKK</a>
           <router-link class="hover:underline" to="/om-oss">OM OSS</router-link>
         </div>
       </div>
