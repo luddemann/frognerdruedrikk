@@ -6,7 +6,7 @@
         <p class="max-w-xl md:text-lg">En genser laget for fyllesyke søndagsturer på Frogner.</p>
         <p class="max-w-xl md:text-lg">Enten du vil bli sett - eller helst ikke bli sett - er denne genseren for deg!</p>
       </div>
-      <a href="https://frognerdruedrikk.myshopify.com/products" target="_blank" class="bg-primary text-[#F9F6EA] py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Bestill genser</a>
+      <a href="https://frognerdruedrikk.myshopify.com" target="_blank" class="bg-primary text-[#F9F6EA] py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Bestill genser</a>
       <img src="../assets/bilde2fdfgenser.jpeg" alt="Bilde av t-skjorte" class="mt-6">
     </section>
     <hr class="border-primary">
