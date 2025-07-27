@@ -1,13 +1,13 @@
 <template>
   <div class="my-20 space-y-16">
     <section class="flex items-center flex-col gap-6 text-center">
-      <h2 class="text-4xl md:text-7xl uppercase text-primary font-standard">VINTERSLIPP - Sunday Hoodie</h2>
+      <h2 class="text-4xl md:text-7xl uppercase text-primary font-standard">SOMMERDROP - <br> T-SKJORTE OG LONGSLEEVE</h2>
       <div class="space-y-2">
-        <p class="max-w-xl md:text-lg">En genser laget for fyllesyke søndagsturer på Frogner.</p>
-        <p class="max-w-xl md:text-lg">Enten du vil bli sett - eller helst ikke bli sett - er denne genseren for deg!</p>
+        <p class="max-w-xl md:text-lg">Vi feirer sommeren med en helt ny longsleeve og t-skjorte.</p>
+        <p class="max-w-xl md:text-lg">To plagg som hyller det gode liv - fylt med leskende vin og fruktbare samtaler.</p>
       </div>
-      <a href="https://frognerdruedrikk.myshopify.com" target="_blank" class="bg-primary text-[#F9F6EA] py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Bestill genser</a>
-      <img src="../assets/bilde2fdfgenser.jpeg" alt="Bilde av t-skjorte" class="mt-6">
+      <a href="https://frognerdruedrikk.myshopify.com" target="_blank" class="bg-primary text-[#F9F6EA] py-2 px-9 hover:bg-transparent border border-primary hover:text-primary rounded-full transition duration-200">Kjøp nå</a>
+      <img src="../assets/FDF_SummerDrop_Hero.jpg" alt="Bilde av t-skjorte" class="mt-6">
     </section>
     <hr class="border-primary">
     <section class="flex items-center flex-col gap-8 text-center">
